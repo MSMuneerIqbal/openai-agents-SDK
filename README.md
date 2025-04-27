@@ -1,38 +1,31 @@
-Got it, Muneer!  
-You want a **README.md** for your **GitHub repository** where you'll collect **all your OpenAI Agents** projects, built with **OpenAI Agent SDK** and using **uv** as package manager — and you want the **official Agent SDK documentation link** included too.
-
-Here’s a professional `README.md` ready for you:
-
----
-
-# 📄 README.md
+# README.md
 
 ```markdown
-# 🤖 OpenAI Agents Collection
+# OpenAI Agents Collection
 
 Welcome to my repository where I am building and sharing multiple **OpenAI Agents** using the **OpenAI Agent SDK**.  
 Each project here is powered by **OpenAI Agent SDK** and managed with **uv** for modern and efficient Python package management.
 
 ---
 
-## 🚀 What is this Repository?
+## What is this Repository?
 
 This repository is a collection of different **OpenAI Agents** designed for various tasks like chatting, automations, assistants, and more.  
 Each agent is built using the **OpenAI Agent SDK**, following best practices for structure, environment management, and deployment.
 
 ---
 
-## 🧠 What is OpenAI Agent SDK?
+## What is OpenAI Agent SDK?
 
 The **OpenAI Agent SDK** enables developers to easily build, manage, and deploy AI-powered agents that can plan, reason, and take actions.  
 It provides a robust framework to create intelligent workflows with memory, tools, and instructions.
 
 🔗 Official Documentation:  
-👉 [OpenAI Agents SDK Docs](https://github.com/openai/agents)
+ [OpenAI Agents SDK Docs](https://github.com/openai/agents)
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **Python 3.10+**
 - **OpenAI Agent SDK** (for agent building)
@@ -42,7 +35,7 @@ It provides a robust framework to create intelligent workflows with memory, tool
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -82,7 +75,7 @@ GEMINI_API_KEY=your-gemini-api-key
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```bash
 .
@@ -98,7 +91,7 @@ Each agent will have its own folder with a clear structure.
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.10 or newer
 - uv installed (`pip install uv`)
@@ -106,7 +99,7 @@ Each agent will have its own folder with a clear structure.
 
 ---
 
-## ⚡ Notes
+##  Notes
 
 - **uv** ensures faster installs and cleaner environments.
 - Each agent is isolated and uses its own models, instructions, and sometimes tools.
@@ -114,7 +107,7 @@ Each agent will have its own folder with a clear structure.
 
 ---
 
-## 📜 License
+##  License
 
 This repository is open-source and free to use.  
 Feel free to explore, contribute, and build on top of these agents!
