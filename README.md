@@ -116,7 +116,7 @@ Feel free to explore, contribute, and build on top of these agents!
 
 ## ✨ Author
 
-Built with 💬 and ☕ by [Muneer Iqbal](https://github.com/your-github-profile)
+Built with 💬 and ☕ by [Muneer Iqbal](https://github.com/MSMuneerIqbal/)
 
 ---
 
