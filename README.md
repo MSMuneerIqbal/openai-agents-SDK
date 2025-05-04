@@ -1,6 +1,3 @@
-# README.md
-
-```markdown
 # OpenAI Agents Collection
 
 Welcome to my repository where I am building and sharing multiple **OpenAI Agents** using the **OpenAI Agent SDK**.  
@@ -118,16 +115,7 @@ Feel free to explore, contribute, and build on top of these agents!
 
 Built with 💬 and ☕ by [Muneer Iqbal](https://github.com/MSMuneerIqbal/)
 
----
 
-```
-
----
 
 ✅ Everything clean ✅ Professional ✅ GitHub ready ✅ Future scalable
 
----
-
-Would you also like me to write a **`requirements.txt` template** for your repo too?  
-(so you don't forget the important libraries like `agents`, `dotenv`, etc.) 🚀  
-Just say "yes template"! 🎯
